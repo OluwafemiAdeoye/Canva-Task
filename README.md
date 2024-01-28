@@ -50,3 +50,17 @@ Run the tests using the following Maven command:
 
 ```bash
 mvn test
+
+## Project Structure
+The project structure is organized as follows:
+
+- src/main/java      # Java source code
+- src/test/java      # Test source code
+- resources          # Configuration files, test data, etc.
+- target             # Compiled bytecode, test reports, etc.
+- .gitignore         # Gitignore file
+- pom.xml            # Maven project configuration
+- README.md          # Project README file
+
+License
+This project is licensed under the MIT - see the LICENSE.md file for details.
